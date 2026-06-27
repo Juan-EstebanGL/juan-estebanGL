@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Esteban Gómez Londoño
 
-💻 Desarrollador Full Stack
+💻 Desarrollador de software
 
 🎓 Tecnólogo ADSO - SENA
 
