@@ -30,6 +30,6 @@ Sistema de gestión para una tienda de belleza con módulos de compras, ventas, 
 
 Telefono: 3012460508
 
-LinkedIn:https://www.linkedin.com/in/juan-esteban-g%C3%B3mez-londo%C3%B1o-a0315b3ab/
+LinkedIn: https://www.linkedin.com/in/juan-esteban-g%C3%B3mez-londo%C3%B1o-a0315b3ab/
 
-Correo:juangomezlon@gmail.com
+Correo: juangomezlon@gmail.com
