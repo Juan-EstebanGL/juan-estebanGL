@@ -2,7 +2,7 @@
 
 💻 Desarrollador de software
 
-🎓 Tecnólogo ADSO - SENA
+🎓 Tecnólogo en análisis y desarrollo de software - SENA
 
 📍 Medellín, Colombia
 
