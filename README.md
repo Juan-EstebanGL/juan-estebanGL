@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Esteban Gómez
 
-<!--
-**Juan-EstebanGL/juan-estebanGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full Stack
 
-Here are some ideas to get you started:
+🎓 Tecnólogo ADSO - SENA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Medellín, Colombia
+
+## 🚀 Tecnologías
+
+- React
+- Node.js
+- Express
+- PostgreSQL
+- Prisma ORM
+- JavaScript
+- Git
+- JWT
+- Java (Basico)
+
+## 📂 Proyectos destacados
+
+### 🛒 Ecommerce Full Stack
+
+Sistema de comercio electrónico desarrollado con React, Node.js, Express y PostgreSQL.
+
+### 💇 SteticSoft
+
+Sistema de gestión para una tienda de belleza con módulos de compras, ventas, proveedores, inventario y citas.
+
+Telefono: 3012460508
+
+LinkedIn:https://www.linkedin.com/in/juan-esteban-g%C3%B3mez-londo%C3%B1o-a0315b3ab/
+
+Correo:juangomezlon@gmail.com
