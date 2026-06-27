@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan Esteban Gómez
+# 👋 Hola, soy Juan Esteban Gómez Londoño
 
 💻 Desarrollador Full Stack
 
